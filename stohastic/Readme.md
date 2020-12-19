@@ -95,7 +95,7 @@ stohastic/
 
 8.2. На каждый модульный тест должно быть разработанно не менее одного контрольного примера
 
-## 9. КО (Тех писатель) - Документирование проекта и продукта - [Шаховцев](https://github.com/ayyansea/ayyansea.github.io), [Кривопалова](https://github.com/mayakriv/mayakriv.github.io)
+## 9. КО (Тех писатель) - [Документирование](https://github.com/stankin/oop-stat/blob/master/stohastic/doc.md) проекта и продукта - [Шаховцев](https://github.com/ayyansea/ayyansea.github.io), [Кривопалова](https://github.com/mayakriv/mayakriv.github.io)
 9.1. Документация к баблиотеке должна быть офомлена в виде страниц .md
 
 9.2. Документация к библиотеке должна быть доступна с landing page
