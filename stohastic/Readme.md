@@ -6,6 +6,8 @@
 
 [Комплект поставки продукта ](https://github.com/stankin/oop-stat/blob/master/stohastic/КомплектПоставкиПродукта.md)
 
+[Документация продукта](https://github.com/stankin/oop-stat/blob/master/stohastic/doc.md)
+
 [Канабан-доска](https://github.com/stankin/oop-stat/projects/3)
 
 [Пользовательская история](https://github.com/stankin/oop-stat/issues/14)
