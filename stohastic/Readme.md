@@ -13,7 +13,7 @@
 [Отчет по оценке трудозатрат (план/факт)](https://github.com/stankin/oop-stat/blob/master/stohastic/ОценкаТрудозатрат.md)
 
 ## Состав команды Random
-|Участник|Роль|ССылка|
+|Участник|Роль|Ссылка|
 |--|--|--|
 |Вебер В.|РП, АД, НИ|https://github.com/viveber/VeberVA|
 |Шалаев Д.|СП,БА|https://github.com/Dsgjrk/shalaev.github.io|
